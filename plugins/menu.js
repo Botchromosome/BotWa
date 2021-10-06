@@ -30,23 +30,32 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─「 %me 」
-│ Hai, %name!
+╭─「 %me 」───
+│> Hai, %name!
 │
-│ Tersisa *%limit Limit*
-│ Role *%role*
-│ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
-│ %totalexp XP in Total
+│> Tersisa *%limit Limit*
+│> Role *%role*
+│> Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
+│> %totalexp XP in Total
 │ 
-│ Tanggal: *%week %weton, %date*
-│ Tanggal Islam: *%dateIslamic*
-│ Waktu: *%time*
+│> Tanggal: *%week %weton, %date*
+│> Tanggal Islam: *%dateIslamic*
+│> Waktu: *%time*
 │
-│ Uptime: *%uptime (%muptime)*
-│ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
-╰────
+│> Uptime: *%uptime (%muptime)*
+│> Database: %rtotalreg of %totalreg
+│> MAU MASUKIN BOT KE DALAM GROUP Chat => https://wa.me/message/C4EG73T57DLSC1
+│> TQ TO:
+│> Nurutomo 
+│> Allah SWT
+│> Kedua Orang Tua
+│> SeTaN.BoT
+│> MyXBoT
+│> BoTCHM
+│
+│> JANGAN LUPA DONASI BIAR BOT ON TERUS
+│> KETIK #DONASI
+╰────「 %me 」───
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
   body: '│ • %cmd %islimit %isPremium',
