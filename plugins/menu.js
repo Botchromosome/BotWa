@@ -44,7 +44,7 @@ const defaultMenu = {
 │
 │> Uptime: *%uptime (%muptime)*
 │> Database: %rtotalreg of %totalreg
-│> MAU MASUKIN BOT KE DALAM GROUP Chat => https://wa.me/message/C4EG73T57DLSC1
+│> MAU MASUKIN BOT KE DALAM GROUP Chat => https://wa.me/message/OHTEIR6N7LFHC1
 │> TQ TO:
 │> Nurutomo 
 │> Allah SWT
